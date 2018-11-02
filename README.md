@@ -2,7 +2,7 @@
 
 G2 "frozen" is an open source FPV racer 5 inch frame.
 
-The frame is simple but intended to be light & robust. 
+The design is simple yet intended to be light & robust. My current setup weights 460 grams AUW. Not that bad.
 
 ## The full specs
 
