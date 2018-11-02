@@ -20,6 +20,8 @@ The design is simple yet intended to be light & robust. My current setup weights
 
 There are 3 files containing the different parts (arm, main plate, bottom plate)
 
+![G2 components](https://github.com/zeugri/G2-frozen-frame/blob/master/gfx/G2_components.jpg "G2 components")
+
 You need to cut those in carbon fibre. You'll need :
 
 2 x Arms in 5mm CF
