@@ -1,5 +1,8 @@
 # G2 Frozen FPV racer frame
 
+![G2 render](https://github.com/zeugri/G2-frozen-frame/blob/master/gfx/G2_render.jpg "G2 render")
+
+
 G2 "frozen" is an open source FPV racer 5 inch frame.
 
 The design is simple yet intended to be light & robust. My current setup weights 460 grams AUW. Not that bad.
